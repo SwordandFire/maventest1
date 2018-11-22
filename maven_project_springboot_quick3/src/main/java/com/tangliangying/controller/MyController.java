@@ -40,8 +40,5 @@ public class MyController {
         return redisCRUDService.hget(key);
         // hello world
         //hahahaxixixi
-
-
-
     }
 }
