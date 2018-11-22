@@ -1,0 +1,9 @@
+people:
+ id: 1
+ name: zhangsan
+ age: 18
+ sex: 男
+ boss: false
+server:
+  port: 8087
+
